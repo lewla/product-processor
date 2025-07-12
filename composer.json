@@ -1,0 +1,17 @@
+{
+    "name": "lewla/product-processor",
+    "autoload": {
+        "psr-4": {
+            "Lewla\\ProductProcessor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lewla",
+            "email": "git@lew.la"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
